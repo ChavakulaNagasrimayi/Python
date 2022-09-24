@@ -43,6 +43,7 @@ d4p10-scramblestring
 day5
 d5p1-lastword
 d5p2-bonus
+d5p3-perfect squares
 d5p4-yeah,nah
 d5p5-peak
 d5p7-longest substring
